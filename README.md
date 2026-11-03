@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=GITHUB%20ALT&fontSize=90&animation=twinkling&fontAlignY=35&desc=Il%20futuro%20del%20versioning&descAlignY=60&descAlign=50)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Benvenuto+nel+miglior+GitHub+alt+di+sempre!;Si,+proprio+quello+che+stavi+cercando.;No,+non+%C3%A8+un+clone.+%C3%88+un+UPGRADE." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=bBenvenuto+nel+miglior+GitHub+alt+di+sempre!;Si,+proprio+quello+che+stavi+cercando.;No,+non+%C3%A8+un+clone.+%C3%88+un+UPGRADE." alt="Typing SVG" />
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](https://github.com)
 [![Made with Coffee](https://img.shields.io/badge/Made%20with-%E2%98%95-brown?style=for-the-badge)](https://github.com)
